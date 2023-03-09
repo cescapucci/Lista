@@ -1,3 +1,3 @@
 # Lista
 
-tentativi di implementazione delle liste senza senso
+tentativi di implementazione delle liste senza utilizzare le classi già fornite
